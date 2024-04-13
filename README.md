@@ -1,1 +1,3 @@
-# aesEncryption-
+# aes encryption
+- GCM
+- CFB
